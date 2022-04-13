@@ -1,0 +1,3 @@
+osource "c:/NRF/Application_1/beacon_2/boards/shields/*/Kconfig.shield"
+osource "c:/NRF/Application_1/beacon/boards/shields/*/Kconfig.shield"
+osource "C:/NRF/v1.8.0/nrf/boards/shields/*/Kconfig.shield"
