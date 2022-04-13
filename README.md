@@ -14,6 +14,8 @@
 
 ![Hardware demo](Content/Demo-1.jpg)
 
+![Hardware demo video](Content/Demo-1.mp4)
+
 ## Demo - 2 : Kitchen timer application based on flat state machine
 
 ![Flat state machine](Content/State.png)
